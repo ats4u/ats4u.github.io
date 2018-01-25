@@ -1,6 +1,5 @@
 ---
-title: This is my title
-layout: post
+title: This is my test, that is TEST.
 ---
 
 # Hello World
