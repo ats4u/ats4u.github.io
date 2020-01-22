@@ -1,0 +1,1 @@
+/**/__twttr.setFollowersCountAndFollowing([{"following":false,"id":"19953573","screen_name":"RocketNews24","name":"\u30ED\u30B1\u30C3\u30C8\u30CB\u30E5\u30FC\u30B924","protected":false,"followers_count":204589,"formatted_followers_count":"20.5\u4E07\u4EBA\u306E\u30D5\u30A9\u30ED\u30EF\u30FC","age_gated":false}]);
